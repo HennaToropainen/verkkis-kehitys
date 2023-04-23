@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: white;
+}
+h1 {
+    font-size: 20px;
+}
+p {
+    font-size: 20px;
+}
+p {
+    color: lightgray;
+} 
+    #official-info {
+        border: dotted;width: 2px;
+        width: 100px;
+    }
+
+#links {
+    font-size: 15px;
+    border: 1px solid white;
+    border: dotted; width: 200px;
+    margin-top: 30px;
+    padding: 10px;
+}

@@ -1,0 +1,33 @@
+body {
+    background-color: whitesmoke;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    font-weight: bold; 
+    color: rgb(165, 156, 122);
+}
+
+#links {
+    font-size: 20px;
+    border: 2px solid rgb(165, 156, 122);
+    width: 300px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#start {
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(165, 156, 122);
+}
+h3 {
+    color: rgb(165, 156, 122);
+    width: 350px;
+    font-weight: bold;
+}
+ol { 
+    color: rgb(165, 156, 122);
+    width: 200px;
+    font-weight: bold;
+}

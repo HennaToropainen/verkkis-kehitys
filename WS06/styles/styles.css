@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(237, 220, 220)
+}
+
+#otsikko {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(237, 220, 220);
+    border: 1px solid rgb(237, 220, 220);
+    height: 100px;
+}
+
+#links {
+    border: 1px solid rgb(225, 241, 244);
+    color: black;
+    font-size: 13px;
+    text-align: center;
+    background-color: rgb(255, 241, 244);
+    height: 50px;
+    margin-top: 10px;
+}
+
+#elukat {
+    background-color: white;
+    border: 1px solid white;
+    float: left;
+    width: 200px;
+    height: 500px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#otsikko-2 {
+    color: black;
+    font-size: 30px;
+}
+
+#teksti {
+    color: black;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+a.highlight:hover {
+    color: red; 
+}
+
+#laatikko {
+    width: 300px;
+    border: 1px solid rgb(237, 220, 220);
+    padding-left: 10px;
+    float: left;
+}
+
